@@ -43,7 +43,7 @@ public class Calculator  {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Enter the first numeric value ");
+		System.out.println("Enter the first numericc value ");
 		long first = sc.nextLong();
 		cc.setFirst(first);
 		
